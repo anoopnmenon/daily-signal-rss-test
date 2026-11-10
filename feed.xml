@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>The Daily Signal</title>
     <link>https://anoopnmenon.github.io/daily-signal-rss-test/feed.xml</link>
-    <atom:link href="https://anoopnmenon.github.io/daily-signal-rss-test/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://anoopnmenon.github.io/daily-signal-rss-test/feed.xml" rel="self" type="application/rss+xml" />
     <description>A daily intelligence briefing on startups, venture capital, consumer businesses, artificial intelligence, public markets and the ideas shaping tomorrow's economy.</description>
     <language>en</language>
     <managingEditor>anoop.n@gmail.com (The Daily Signal)</managingEditor>
@@ -14,20 +14,20 @@
       <itunes:name>The Daily Signal</itunes:name>
       <itunes:email>anoop.n@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://pub-a54acb2984ad4879ba81a3c8efe436cf.r2.dev/The_Daily_Signal_Cover_3000.jpg"/>
+    <itunes:image href="https://pub-a54acb2984ad4879ba81a3c8efe436cf.r2.dev/The_Daily_Signal_Cover_3000.jpg" />
     <image>
       <url>https://pub-a54acb2984ad4879ba81a3c8efe436cf.r2.dev/The_Daily_Signal_Cover_3000.jpg</url>
       <title>The Daily Signal</title>
       <link>https://anoopnmenon.github.io/daily-signal-rss-test/feed.xml</link>
     </image>
-    <itunes:category text="Technology"/>
+    <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <item>
+    <item><title>The Daily Signal — November 10, 2026</title><description>Daily briefing on technology, capital, consumer businesses and market developments for 2026-11-10.</description><pubDate>Tue, 10 Nov 2026 02:05:00 GMT</pubDate><guid isPermaLink="false">the-daily-signal-2026-11-10</guid><enclosure url="https://pub-a54acb2984ad4879ba81a3c8efe436cf.r2.dev/episodes/2026-11-10.mp3" length="9701036" type="audio/mpeg" /><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit></item><item>
       <title>The Daily Signal — November 9, 2026</title>
       <description>Daily briefing on technology, capital, consumer businesses and market developments for November 9, 2026.</description>
       <pubDate>Mon, 09 Nov 2026 02:05:00 GMT</pubDate>
       <guid isPermaLink="false">the-daily-signal-2026-11-09</guid>
-      <enclosure url="https://pub-a54acb2984ad4879ba81a3c8efe436cf.r2.dev/episodes/2026-11-09.mp3" length="9290156" type="audio/mpeg"/>
+      <enclosure url="https://pub-a54acb2984ad4879ba81a3c8efe436cf.r2.dev/episodes/2026-11-09.mp3" length="9290156" type="audio/mpeg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
